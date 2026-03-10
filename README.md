@@ -33,9 +33,11 @@ The dataset contains historical stock market data including:
 * High Price
 * Low Price
 * Trading Volume
+
 These features are used to analyze market trends and train the machine learning model.
 
 ⚙️ **Project Workflow**
+
 1️⃣ *Data Collection*
 
 Historical stock data is collected from financial datasets or stock APIs.
